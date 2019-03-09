@@ -15,4 +15,4 @@ python pdf.py SSR_TSRPT_SC.pdf
 
 ```
 ### Others
-Currently only support one page of unofficial transcript
+Currently only support one page of unofficial transcript, can't get EECS 498 because there is no complete course id (EECS498-001) in transcript
